@@ -2,6 +2,7 @@
 
 /**
 *main (- hello world)
+*/
 
 int main(void)
 

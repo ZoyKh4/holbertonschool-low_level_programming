@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main (- hello world)
+* main - hello world
 */
 
 int main(void)

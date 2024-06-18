@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main (- I want that which surpasses even the merciful liberation from death. Thorfinn)
+* main (- I want that which surpasses even the merciful liberation from death.)
 *Return: I have no ennemies.
 */
 

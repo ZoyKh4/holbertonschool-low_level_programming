@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - hello world
-* return: betty tu soule (0)
+* main (- hello world)
+* Return: betty tu soule
 */
 
 int main(void)

@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
-* main (- I want that which surpasses even the merciful liberation from death.)
-* Return: I have no ennemies.
+* main - Start of the code
+*
+* Return: Always zero
 */
 
 int main(void)
@@ -13,5 +14,6 @@ printf("Size of an int: %zu byte(s)\n", sizeof(int));
 printf("Size of a long int: %zu byte(s)\n", sizeof(long));
 printf("Size of a long long int: %zu byte(s)\n", sizeof(long long));
 Printf("Size of a float: %zu byte(s)\n", sizeof(float));
+
 return (0);
 }

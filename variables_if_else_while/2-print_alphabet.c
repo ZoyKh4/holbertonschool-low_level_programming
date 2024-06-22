@@ -3,7 +3,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: Prints the alphabet 
+ * Description: Prints the alphabet
  *
  * Return: Always 0 (Success)
  */

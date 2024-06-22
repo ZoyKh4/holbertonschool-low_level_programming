@@ -7,27 +7,24 @@
  * description 'trust the process'
  * Return: always 0
  */
-
 int main(void)
-
 {
-	int n;
-	int pipi;
-
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	pipi = n % 10;
-	if (pipi >= 5)
+int n;
+int last_digit;
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+last_digit = n % 10;
+if (last_digit > 5)
 {
-	printf("%d and %d is greater than 5\n", n, pipi);
+printf("last_digit of %d is %d and is greater than 5\n", n, last_digit);
 }
-	else if (pipi < 6 && pipi != 0)
+else if (last_digit != 0 && last_digit < 6)
 {
-	printf("%d and %d is less than 6 and not 0\n", n, pipi);
+printf("last-digit of %d is %d and is less than 6 and not 0\n", n, last_digit);
 }
-	else if (pipi == 0)
-	{
-		printf("%d and %d is 0\n", n, pipi);
-	}
-	return (0);
+else if (last_digit == 0)
+{
+printf("last_digit of %d is %d and is 0\n", n, last_digit);
+}
+return (0);
 }

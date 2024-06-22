@@ -17,17 +17,17 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	pipi = n % 10;
-	if (pipi > 5)
+	if (pipi >= 5)
 {
-	printf("%d and %d is greater than 5\n", n);
+	printf("%d and %d is greater than 5\n", n, pipi);
 }
 	else if (pipi < 6 && pipi != 0)
 {
-	printf("%d and %d is less than 6 and not 0\n", n);
+	printf("%d and %d is less than 6 and not 0\n", n, pipi);
 }
 	else if (pipi == 0)
 	{
-		printf("%d and %d is 0\n", n);
+		printf("%d and %d is 0\n", n, pipi);
 	}
 	return (0);
 }

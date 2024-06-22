@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - thorfinn
- * description: "trust the process"
- */
+ * main - Desc de la fonction
+ * descrition: fontion
+ * return: always 0
+*/
 
 int main(void)
 {

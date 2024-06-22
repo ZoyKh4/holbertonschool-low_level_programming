@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - write numbers
  *
  * Description: trust the process

@@ -2,9 +2,9 @@
 
 /**
  * main - Desc de la fonction
- * descrition: fontion
+ * descrition: main
  * return: always 0
-*/
+ */
 
 int main(void)
 {

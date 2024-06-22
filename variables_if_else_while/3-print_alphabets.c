@@ -3,9 +3,9 @@
 /**
  * main - etry point of th program
  *
- * descripton: trustthe process
+ * Descripton: trustthe process
  *
- * return: always 0
+ * Return: always 0
 */
 
 int main(void)

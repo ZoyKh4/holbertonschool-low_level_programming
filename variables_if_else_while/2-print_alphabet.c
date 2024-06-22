@@ -3,7 +3,7 @@
 
 /**
  * main - thorfinn
- * description "trust the process"
+ * description: "trust the process"
  */
 
 int main(void)

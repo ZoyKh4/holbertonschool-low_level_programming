@@ -4,6 +4,8 @@
  *
  * main - write numbers
  *
+ * Description: trust the process
+ *
  * Return: always 0
  */
 

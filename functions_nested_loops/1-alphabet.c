@@ -3,7 +3,7 @@
 /**
  * print_alphabet - Affiche les lettres de l'alphabet en minuscule.
  *
- * Cette fonction utilise la fonction _putchar pour imprimer les lettres de 'a' à 'z'.
+ * Cette fonction utilise la fonction
  * Chaque lettre est imprimée sur une nouvelle ligne.
  */
 

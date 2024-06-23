@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - ecrire l alphabet comme un grand
- * Return: always 0
- * print_alphabet - fonction print_alphabet
+ * print_alphabet - Affiche les lettres de l'alphabet en minuscule.
+ *
+ * Cette fonction utilise la fonction _putchar pour imprimer les lettres de 'a' à 'z'.
+ * Chaque lettre est imprimée sur une nouvelle ligne.
  */
 
 void print_alphabet(void)

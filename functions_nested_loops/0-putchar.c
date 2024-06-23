@@ -7,9 +7,10 @@
  */
 
 int main(void)
-
 {
-// trust the process
+
+int rkmd;
+
 printf("_putchar\n");
 return (0);
 }

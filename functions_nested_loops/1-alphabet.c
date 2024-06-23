@@ -3,6 +3,7 @@
 /**
  * main - ecrire l alphabet comme un grand
  * Return: always 0
+ * Descrption: fonction print alphabet
  */
 
 void print_alphabet(void)

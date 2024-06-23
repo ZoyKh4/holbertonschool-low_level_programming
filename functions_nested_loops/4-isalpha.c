@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - lettre ou non 
+ * _isalpha - lettre ou non
  * @c: caractere a check
  * Return - 1 ou 2
  */

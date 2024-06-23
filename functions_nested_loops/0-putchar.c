@@ -6,8 +6,7 @@
 */
 
 int main(void){
-	//programme pour crée _putchar
-	int pgrm;
+
 	printf("_putchar\n");
 	return (0);
 }

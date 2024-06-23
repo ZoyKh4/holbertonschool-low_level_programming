@@ -9,6 +9,7 @@
 int main(void)
 
 {
+// trust the process
 printf("_putchar\n");
 return (0);
 }

@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * mul - check the code
- *
+ * Description: no ennemies 
  * Return: Always 0.
  */
 

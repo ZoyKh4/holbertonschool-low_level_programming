@@ -14,4 +14,5 @@ for (a = '0'; a <= '9')
 _putchar(a);
 }
 _putchar("\n");
+return;
 }

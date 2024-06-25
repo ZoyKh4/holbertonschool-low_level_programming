@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - description
- *@n: variable
+ * more_numbers - descript
  * Return: 0
  */
 

@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * more_numbers
- *@n: efhaeghea
+ * more_numbers - description
+ * @n: efhaeghea
  * Return: 0
  */
 

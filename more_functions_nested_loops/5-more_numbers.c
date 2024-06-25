@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - description
- * @n: efhaeghea
+ *@n: variable
  * Return: 0
  */
 

@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 
- * 
- * 
+ * more_numbers
+ *@n: efhaeghea
+ * Return: 0
  */
 
 void more_numbers(void)

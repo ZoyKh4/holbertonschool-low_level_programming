@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - prototype
- *@a: variable
  * Return: always 0
  */
 

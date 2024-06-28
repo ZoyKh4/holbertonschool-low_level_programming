@@ -19,7 +19,7 @@ else
 {
 for (space = 1; space <= size; space++)
 {
-for (hashtag= 0; hashtag < size - space; hashtag++)
+for (hashtag = 0; hashtag < size - space; hashtag++)
 {
 _putchar(' ');
 }

@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_triangle - prototype
- * @space: triangle
+ * @size: prototype
  * Return: always 0
  */
 

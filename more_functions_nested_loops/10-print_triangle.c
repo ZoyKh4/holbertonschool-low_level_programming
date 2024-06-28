@@ -1,15 +1,15 @@
 #include "main.h"
 /**
  * print_triangle - prototype
- * 
- * 
+ * @space: triangle
+ * Return: always 0
  */
 
 void print_triangle(int size)
 
 {
 int space;
-int hashtag = size; 
+int hashtag = size;
 
 if (size <= 0)
 {

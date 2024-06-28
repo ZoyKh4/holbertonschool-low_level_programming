@@ -2,8 +2,8 @@
 /**
  * swap_int - variable
  *@b: pointeur
- *@n: pointeur
- * description: inverserles resutlats
+ *@a: pointeur
+ * description: inverser les resutlats
  */
 
 void swap_int(int *a, int *b)
@@ -15,4 +15,3 @@ temp = *a;
 *a = *b;
 *b = temp;
 }
-

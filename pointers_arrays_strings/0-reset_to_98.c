@@ -2,8 +2,8 @@
 #include "main.h"
 /**
  * reset_to_98 - pointeur
- *@a: variable
- *
+ *@n: variable
+ * description: change numbers
  */
 
 

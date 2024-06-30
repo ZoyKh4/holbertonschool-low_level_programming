@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include "main.h"
 /**
  * print_rev - print inverser
  *@s: char s
@@ -12,7 +13,7 @@ int longueur = strlen(s);
 int i;
 for (i = longueur - 1; i >= 0; i--)
 {
-putchar(s[i]);
+_putchar(s[i]);
 }
-putchar('\n');
+_putchar('\n');
 }
